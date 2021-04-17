@@ -5,3 +5,5 @@
 3 Git add
 
 4 Git rm
+
+5 Git status
