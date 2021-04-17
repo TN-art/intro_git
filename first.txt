@@ -7,3 +7,5 @@
 4 Git rm
 
 5 Git status
+
+Git diff
